@@ -1,5 +1,5 @@
-# react-webpack-template
-react webpack template
+# react-socket
+react-socket
 
 ```
 npm install
